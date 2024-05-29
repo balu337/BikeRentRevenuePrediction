@@ -18,11 +18,12 @@ Project involves building model to predict demand of shared bikes.
 
 **Approach** 
 
-1.   Step 1: Project Setup & Data Import
-2.   Step 2: Understanding and Visualizing data
-3.   Step 3: Preparing Data for modeling
-4.   Step 4: Build and Train the Model
-5.   Step 5: Model Evaluation
+- Step 1: Project Stetup & Data Import
+- Step 2: Understanding and Visualizing data
+- Step 3: Preparing Data for modelling
+- Step 4: Build and Train the Model
+- Step 5: Model Evaluation
+- Step 6: Conclusion
 
 ## Conclusions
 
