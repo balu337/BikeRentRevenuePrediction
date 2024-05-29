@@ -27,9 +27,9 @@ Project involves building model to predict demand of shared bikes.
 
 ## Conclusions
 
-  - 3 significantly contributing factors are from ‘temperature’,’Weather situation-Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds’( negatively) and ‘Year’. 
+  - 3 significantly contributing factors are  **‘temperature’**,**’Weather situation-Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds**’( negatively) and ‘**Year**’. 
   - Year and temperature are impacting positively. 
-  - The Weather situation of Light (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds ) and wind speed are impacting negatively.
+  - The Weather situation of Light (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds ) and wind speed are impacting **negatively**.
 
 - Model to predict bike demand is represented as "Bike Demand(Y)  = 0.0875+ 0.2334*yr -0.0867*holiday + 0.5682 *temp -0.1455 * windspeed -0.2535 *light + 0.0812 *summer + 0.1261*winter + 0.0895 *Sep"
 - Seasonal Factors : Fall has maximum demand and spring has lowest demand
